@@ -1,0 +1,27 @@
+{
+  "name": "learning-projects",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Training projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git", 
+    "url": "git+https://github.com/Valeriya-Makhmutova/learning-projects.git"
+  },
+  "author": "Valeriya Makhmutova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valeriya-Makhmutova/learning-projects/issues"
+  },
+  "homepage": "https://github.com/Valeriya-Makhmutova/learning-projects#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jest": "^29.4.3",
+    "prettier": "^2.8.4"
+  }
+}
